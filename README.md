@@ -5,7 +5,11 @@ I used:<br>
 -> Particles.js<br>
 -> Handlebars<br>
 
-Loginform:
+To run: <br>
+npm update<br>
+node app.js<br>
+
+Loginform:<br>
 ![loginform pic](https://i.ibb.co/HNBRGxc/IMG-20181207-191714-485.jpg)
 
 
