@@ -2,7 +2,7 @@
 
 I used:<br>
 -> Passport.js <br>
--> Particles.is<br>
+-> Particles.js<br>
 -> Handlebars<br>
 
 Loginform:
