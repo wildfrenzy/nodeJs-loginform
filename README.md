@@ -1,3 +1,12 @@
 # nodeJs-loginform
-nodeJs loginform + 404 page
+
+I used:
+-> Passport.js
+-> Particles.is
+-> Handlebars
+
+Loginform:
+![loginform pic] (https://ibb.co/yhdKgYz)
+
+
 made in 2016
