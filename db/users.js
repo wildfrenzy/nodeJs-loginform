@@ -1,6 +1,6 @@
 var records = [
     { id: 1, username: 'admin', password: 'admin' },
-    { id: 2, username: 'illinad', password: 'qwerty' }
+    { id: 2, username: 'user', password: 'qwerty' }
 
 ];
 
